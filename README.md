@@ -1,0 +1,3 @@
+- 👋 Hi, I’m sonny
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning SQL and improving my Python skills
